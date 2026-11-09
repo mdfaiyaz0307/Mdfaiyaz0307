@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there! 👋 I'm MD FAIYAZ
 
-<!--
-**mdfaiyaz0307/Mdfaiyaz0307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Python Developer
 
-Here are some ideas to get you started:
+I'm a BCA graduate and currently learning Full Stack Python with AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🐍 Learning Python and Data Structures
+- 💻 Interested in Software Development
+- 🗄️ Learning MySQL and Web Technologies
+- 🚀 Improving my coding skills every day
+
+### Skills
+Python | MySQL | HTML | CSS | JavaScript
+
+### Connect with me
+[LinkedIn](https://www.linkedin.com/in/md-faiyaz-ba18b0443)
